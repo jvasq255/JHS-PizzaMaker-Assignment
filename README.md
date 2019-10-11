@@ -7,7 +7,7 @@ In this project, you will use your knowledge of flowchart programming with fisch
 
 [image1]: https://github.com/joshrwhite/JHS-PizzaMaker-Assignment/blob/master/Images/Rubric_PhysicalDesign.PNG "Rubric1"
 [image2]: https://github.com/joshrwhite/JHS-PizzaMaker-Assignment/blob/master/Images/Rubric_SoftwareDesign.PNG "Rubric2"
-
+[image3]: https://github.com/joshrwhite/JHS-PizzaMaker-Assignment/blob/master/Images/Rubric_WriteupReport.PNG "Rubric3"
 
 ## Design Brief
 
@@ -32,6 +32,10 @@ Physical Construction:
 ROBOPro Programming Software:
 
 ![Rubric2][image2]
+
+Final Written Report:
+
+![Rubric3][image3]
 
 ## Repository Navigation
 

@@ -19,7 +19,7 @@ A company has completed market research and found that opening a sector for resi
 2. Comments in the code should communicate each function's intended purpose clearly.
 3. The final write up is professional with descriptive pictures of your elevator prototype and program.
 4. A final video is provided (which can easily be linked through the use of a markdown (.md) file).
-   - The [writeup_template.md](https://github.com/joshrwhite/JHS-Elevator-Assignment/blob/master/writeup_template.md) file in the repository, can be used to fulfill requirements 3 & 4.
+   - The [writeup_template.md](https://github.com/joshrwhite/JHS-PizzaMaker-Assignment/blob/master/writeup_template.md) file in the repository, can be used to fulfill requirements 3 & 4.
 5. The final submission will be a link to your GitHub repository for this project, so please maintain a professional digital environment.
 6. While successful completion of the project means that the design constraints found in the Design Brief are met, A+ work will be awarded to projects that show creativity in meeting these objectives.
 

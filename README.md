@@ -11,7 +11,7 @@ In this project, you will use your knowledge of flowchart programming with fisch
 
 ## Design Brief
 
-A company has completed market research and found that opening a sector for residential elevators would be a source of increased revenue for the company. Your team must design the control system and a prototype of an elevator that can go between three floors in any combination (first to third, third to second, second to third, etc.). The prototype must include a set of three switches to represent each floor inside the elevator. On the ground floor, there must be a set of three lights to indicate where the elevator is currently located. Code requirements dictate that a safety mechanism must be built in to the elevator's control system so that it may normally rest on the ground floor and return to the ground floor after a user-determined period of inactivity.
+A local pizza restaurant would like to start a franchise off of their three most popular pizzas: cheese, sausage, and pepperoni. To franchise, they have sought your help in automating their pizza making process. Your team must design the control system and a prototype of a three-choice pizza making machine to be put directly in line with their packaging machines. The prototype must include inputs for selecting the kind of pizza ordered and should output the desired pizza after equal periods of time. (Having three pizzas made at equal time intervals allows for more efficient planning purposes.) Your team must also employ indicators so that the consumer can see where the pizza is in the automation process (assembly, baking, cooling, etc.).
 
 ## Further Project Requirements
 

@@ -6,7 +6,7 @@
 
 ---
 
-**Automated PizzaMaker Project**
+**Model Elevator Project Goals**
 
 The goals of this project are the following:
 * Using fischertechniks and ROBOPro, build a prototype elevator to go between three floors

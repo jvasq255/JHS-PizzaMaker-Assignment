@@ -1,4 +1,4 @@
-# **Elevator Assignment** 
+# **PizzaMaker Assignment** 
 
 ## Writeup Template
 
@@ -6,7 +6,7 @@
 
 ---
 
-**Behavioral Cloning Project**
+**Automated PizzaMaker Project**
 
 The goals of this project are the following:
 * Using fischertechniks and ROBOPro, build a prototype elevator to go between three floors
@@ -16,9 +16,9 @@ The goals of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: https://github.com/userName/JHS-Elevator-Assignment/blob/master/images/image_example1.JPG "image_example1"
-[image2]: https://github.com/userName/JHS-Elevator-Assignment/blob/master/images/image_example2.JPG "image_example2"
-[image3]: https://github.com/userName/JHS-Elevator-Assignment/blob/master/images/image_example3.JPG "image_example3"
+[image1]: https://github.com/userName/JHS-PizzaMaker-Assignment/blob/master/images/image_example1.JPG "image_example1"
+[image2]: https://github.com/userName/JHS-PizzaMaker-Assignment/blob/master/images/image_example2.JPG "image_example2"
+[image3]: https://github.com/userName/JHS-PizzaMaker-Assignment/blob/master/images/image_example3.JPG "image_example3"
 
 ## Rubric Points
 ### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  

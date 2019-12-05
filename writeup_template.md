@@ -6,7 +6,7 @@
 
 ---
 
-**Model Elevator Project Goals**
+****
 
 The goals of this project are the following:
 * Using fischertechniks and ROBOPro, build a prototype elevator to go between three floors
@@ -58,4 +58,4 @@ Here is where the code is implemented and integrating with my physical build:
 
 ### Output Video
 
-You can find video of the automated pizzamaker at this [YouTube link](https://www.youtube.com)
+You can find video of the automated 'pizzamaker' at this [YouTube link](https://www.youtube.com)
